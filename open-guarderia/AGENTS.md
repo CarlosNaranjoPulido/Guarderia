@@ -54,3 +54,7 @@ Spanish-language daycare/guardería app built on Next.js. Currently a bare creat
 
 - /spec usaremos esta skill para crear las especificaciones.
 - /spec-impl usaremos esta skill para hacer las implementaciones. 
+
+## Reglas de codigo
+
+- Usar codigo limpio, nombres, funciones, variables, etc. en inglés
